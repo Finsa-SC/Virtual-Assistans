@@ -10,6 +10,8 @@
 
 ## 📖 Overview
 
+![alt text](https://github.com/Finsa-SC/Virtual-Assistans/blob/main/public/Example1.png?raw=true)
+
 I created a program that I wanted to make as similar as possible to one of the AI characters in the Zenless Zone Zero game called "Fairy". I want to make the program as similar as possible, yes for now I'm still working on it
 
 This program uses localhost for its model.
